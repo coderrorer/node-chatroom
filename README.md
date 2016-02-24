@@ -10,3 +10,5 @@
 ######项目运行方式
   
   <code>npm install</code>
+  
+  <code>npm start</code>
